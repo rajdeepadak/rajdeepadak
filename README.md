@@ -1,4 +1,3 @@
-![image](https://user-images.githubusercontent.com/65621480/169020549-9cd0893a-2c36-48d5-8aa5-a094274c7894.png)
 <h2 align="center">Rajdeep Adak</h2>
 
 <p align="center">I research and develop software for simplifying CFD simulation process with OpenFOAM.</p>
