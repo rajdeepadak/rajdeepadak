@@ -1,6 +1,6 @@
-<h1 align="center">Rajdeep Adak</h1>
+<h2 align="center">Rajdeep Adak</h2>
 
-I research and develop software for simplifying CFD simulation process with OpenFOAM.
+<p align="center">I research and develop software for simplifying CFD simulation process with OpenFOAM.</p>
 
 
 - 📄 Areas of Interests: **Graphical Programming, Algorithms, Computational Geometry, Control Systems, Physical Design Engineering**
