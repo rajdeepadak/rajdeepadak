@@ -7,7 +7,7 @@
 
 - 🌱 I’m always learning **🌱**
 
-- 🔭 I’m currently working on **developing a Graphical User Interface for OpenFOAM CFD simulations on Blender.**
+- 🔭 I’m currently working on **Graphical User Interface development for OpenFOAM CFD simulations on Blender.**
 
 - 📫 Reach me at **rajdeepadak@gmail.com**
 
