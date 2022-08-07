@@ -1,6 +1,6 @@
 <h2 align="center">Rajdeep Adak</h2>
 
-<p align="center">
+<p align="left">
 Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. 
 As an electronics engineer, I have developed a keen interest in robotics and control systems. I have worked in the field of robotics and explored usage of
 image based position control and stabilisation algorithms. My current research has allowed me to explore the field of Fluid Dynamics and study methods of flight control that are incorrigible to turbulent airflow. I use Computational Geometry to develop physical models and mesh objects that interact with fluids. I prefer Python to deploy learning models and graphically manipulate OpenFOAM syntax specific data. I tinker around with microcontrollers and microprocessors for implementing control algorithms usually written in C/C++. 
