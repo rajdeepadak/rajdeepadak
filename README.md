@@ -2,7 +2,9 @@
 
 <p align="center">
 Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software for simplifying CFD simulation process with OpenFOAM. 
-I
+I explore the usage of Computational Geometry and Graphical Programming to develop physical models and mesh objects that interact with fluids. 
+Primarily, I use Python/C/C++ for writing algorithms to handle OpenFOAM syntax specific data. I have tinkered with flight controllers and flight 
+
 </p>
 
 
