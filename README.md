@@ -1,6 +1,9 @@
 <h2 align="center">Rajdeep Adak</h2>
 
-<p align="center">I research and develop software for simplifying CFD simulation process with OpenFOAM.</p>
+<p align="center">
+Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software for simplifying CFD simulation process with OpenFOAM. 
+I
+</p>
 
 
 - 📄 Areas of Interests: **Graphical Programming, Algorithms, Computational Geometry, Control Systems, Physical Design Engineering**
