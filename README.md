@@ -3,23 +3,18 @@
 <p align="center">
 Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. 
 As an electronics engineer, I have developed a keen interest in robotics and control systems. I have worked in the field of robotics and explored usage of
-image based position control and stabilisation algorithms. My current research has allowed me to explore the field of Fluid Dynamics and studt methods of flight control that are incorrigible to turbulent airflow. I use of Computational Geometry and Graphical Programming to develop physical models and mesh objects 
-that interact with fluids. Primarily, I use Python/C/C++ for writing algorithms to handle OpenFOAM syntax specific data. 
+image based position control and stabilisation algorithms. My current research has allowed me to explore the field of Fluid Dynamics and study methods of flight control that are incorrigible to turbulent airflow. I use Computational Geometry to develop physical models and mesh objects that interact with fluids. I prefer Python to deploy learning models and graphically manipulate OpenFOAM syntax specific data. I tinker around with microcontrollers and microprocessors for implementing control algorithms usually written in C/C++. 
 
-I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. My contact is mentioned below if you wish to know 
-more my work or speak to me in general.
+I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. 
 </p>
 
+- 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** if you wish to speak to me in general.
 
-- 📄 Areas of Interests: **Graphical Programming, Algorithms, Computational Geometry, Control Systems, Physical Design Engineering**
+- 📄 Areas of Interests: **Robotics and Control Systems, Machine Learning, Algorithms, Computational Geometry and Physical Design Engineering**
 
 - 🌱 I’m always learning **🌱**
 
-- 🔭 I’m currently working on **Graphical User Interface development for OpenFOAM CFD simulations on Blender.**
-
-- 📫 Reach me at **rajdeepadak@gmail.com**, **rajdeepadak@iitb.ac.in**
-
-  
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rajdeep-adak-699632193?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bepj3utdytz2cxggeawz%2f6q%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajdeep-adak-699632193?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bepj3utdytz2cxggeawz%2f6q%3d%3d" height="30" width="40" /></a>
