@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Graphical User Interface development for OpenFOAM CFD simulations on Blender.**
 
-- 📫 Reach me at **rajdeepadak@gmail.com**
+- 📫 Reach me at **rajdeepadak@gmail.com**, **rajdeepadak@iitb.ac.in**
 
   
 <h3 align="left">Connect with me:</h3>
