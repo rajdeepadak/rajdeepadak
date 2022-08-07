@@ -2,13 +2,12 @@
 
 <p align="center">
 Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. 
-I explore the usage of Computational Geometry and Graphical Programming to develop physical models and mesh objects that interact with fluids. 
-Primarily, I use Python/C/C++ for writing algorithms to handle OpenFOAM syntax specific data. As an electronics engineer, I have developed a keen
-interest in autonomous UAV flight control and stabilisation algorithms. My current area of research has helped me become better at writing good software. 
-I have also explored the wonderful field of Fluid Dynamics with OpenFOAM. This has erked an interest in exploring turbulent airflow around aerial vehicles 
-and exploring methods of control to diminish thy effect. 
-I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. My contact is mentioned below if you wish to    
+As an electronics engineer, I have developed a keen interest in robotics and control systems. I have worked in the field of robotics and explored usage of
+image based position control and stabilisation algorithms. My current research has allowed me to explore the field of Fluid Dynamics and studt methods of flight control that are incorrigible to turbulent airflow. I use of Computational Geometry and Graphical Programming to develop physical models and mesh objects 
+that interact with fluids. Primarily, I use Python/C/C++ for writing algorithms to handle OpenFOAM syntax specific data. 
 
+I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. My contact is mentioned below if you wish to know 
+more my work or speak to me in general.
 </p>
 
 
