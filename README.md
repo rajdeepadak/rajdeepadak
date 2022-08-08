@@ -8,7 +8,7 @@ image based position control and stabilisation algorithms. My current research h
 I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. 
 </p>
 
-- 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** if you wish to speak to me in general.
+- 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
 
 - 📄 Areas of Interests: **Robotics and Control Systems, Machine Learning, Algorithms, Computational Geometry and Physical Design Engineering**
 
