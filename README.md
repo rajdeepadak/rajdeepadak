@@ -1,16 +1,17 @@
 <h2 align="center">Rajdeep Adak</h2>
 
 <p align="left">
-Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. Much of my current work focuses on using Blender as a platform to build a solver-scalable, reusable general purpose OpenFOAM GUI by integrating methods of mesh intraction, graphically customizable solvers and its post-processing utilities. I primarily use Python for developing tools for end user software interactions and I intend to integrate developmental features written in C/C++ with python wrappers.
+Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. Much of my current work focuses on using Blender as a platform to build a reusable, solver-scalable  and rich UI by integrating methods of mesh intraction, graphically customizable solvers and various post-processing utilities. I primarily use Python for developing end user software interaction tools and I intend to integrate developmental features written in C/C++ with Python wrappers.
 
-Originally, I am an electrical engineer with a keen interest in robotics and control systems. I have previously interned at BARC, NPCIL and Texas Instruments Innovation Center, KJSCE. After graduating, I worked at AWS engineering operations team specializing in HVAC, High Voltage Power and Instrumentation for AWS Data Centers. I was introduced to CFD when I interned at FOSSEE, IITB in 2021. Since then, I have been cordially indulged in developing the lacking solution to proliferate the learning rate of CFD with OpenFOAM. I now do this full-time and I hope to release my first heuristic opensourced software soon.
+Originally, I am an electrical engineer with a keen interest in robotics and control systems. I have previously interned at BARC, NPCIL and Texas Instruments Innovation Center, KJSCE. After graduating, I worked at AWS Data Center engineering operations team specializing in HVAC, High Voltage Power and Instrumentation. I was introduced to CFD when I interned at FOSSEE, IITB in 2021. Since then, I have become cordially indulged in developing a lacking solution to proliferate OpenFOAM's learning rate. I now do this full-time and I hope to release my first heuristic open-sourced software soon.
 
-In my free time I love to cook and listen to music. I have made inauspicious attempts to play the guitar and I suck at it but I hope to master it properly in the future. I also tinker around with Single Board Computers.
+In my free time I love to cook and listen to music. I have made inauspicious attempts to play the guitar and I suck at it but I hope to master it properly in the future. I also tinker around with Single Board Computers mainly for multirotor flight dynamics because flying robots are awesome. 
+I envision to pursue higher education and continue to contribute to FOSS. 
 </p>
 
 - 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
 
-- 📄 Areas of Interests: **Robotics and Control Systems, Machine Learning, Algorithms, Computational Geometry and Physical Design Engineering**
+- 📄 Areas of Interests: **Robotics and Control Systems, Machine Learning, Algorithms, Computational Geometry, Embedded Software Engineering**
 
 - 🌱 I’m always learning **🌱**
 
