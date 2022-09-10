@@ -1,11 +1,11 @@
 <h2 align="center">Rajdeep Adak</h2>
 
 <p align="left">
-Hi. Currently, I am a Research Assistant at IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. 
-As an electronics engineer, I have developed a keen interest in robotics and control systems. I have worked in the field of robotics and explored usage of
-image based position control and stabilisation algorithms. My current research has allowed me to explore the field of Fluid Dynamics and study methods of flight control that are incorrigible to turbulent airflow. I use Computational Geometry to develop physical models and mesh objects that interact with fluids. I prefer Python to deploy learning models and graphically manipulate OpenFOAM syntax specific data. I tinker around with microcontrollers and microprocessors for implementing control algorithms usually written in C/C++. 
+Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. I explore the field of Fluid Dynamics and the intricracies of developing CFD software. Much of my current work focuses on using Blender as a platform to build a solver-scalable, reusable general purpose OpenFOAM GUI by integrating methods of mesh intraction, graphically customizable solvers and its post-processing utilities. I primarily use Python for developing tools for end user software interactions and I intend to integrate developmental features written in C/C++ with python wrappers.
 
-I am an avid supporter of Open Source software and I hope to release my first fully open-sourced software soon. 
+Originally, I am an electrical engineer with a keen interest in robotics and control systems. I have previously interned at BARC, NPCIL and Texas Instruments Innovation Center, KJSCE. After graduating, I worked at AWS engineering operations team specializing in HVAC, High Voltage Power and Instrumentation for AWS Data Centers. I was introduced to CFD when I interned at FOSSEE, IITB in 2021. Since then, I have been cordially indulged in developing the lacking solution to proliferate the learning rate of CFD with OpenFOAM. I now do this full-time and I hope to release my first heuristic opensourced software soon.
+
+In my free time I love to cook and listen to music. I have made inauspicious attempts to play the guitar and I suck at it but I hope to master it properly in the future. I also tinker around with Single Board Computers.
 </p>
 
 - 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
