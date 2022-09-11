@@ -1,7 +1,7 @@
 <h2 align="center">Rajdeep Adak</h2>
 
 <p align="left">
-Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. Much of my current work focuses on using Blender as a platform to build a reusable, solver-scalable  and rich UI by integrating methods of mesh intraction, graphically customizable solvers and various post-processing utilities. I primarily use Python for developing end user software interaction tools and I intend to integrate developmental features written in C/C++ with Python wrappers.
+Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software (GUI) for simplifying CFD simulation process with OpenFOAM. My current work focuses on using Blender as a platform to build a reusable, solver-scalable and rich UI by integrating methods of mesh intraction, graphically customizable solvers and various post-processing utilities. I primarily use Python for developing end user software interaction tools and I intend to integrate developmental features written in C/C++ with Python wrappers.
 
 Originally, I am an electrical engineer with a keen interest in robotics and control systems. I have previously interned at BARC, NPCIL and Texas Instruments Innovation Center. After graduating, I worked at AWS Data Center engineering operations team specializing in HVAC, High Voltage Power and Instrumentation. I was introduced to CFD when I interned at FOSSEE in 2021. Since then, I have become cordially indulged in developing a lacking solution to proliferate OpenFOAM's learning rate. I now do this full-time and I hope to release my first heuristic open-sourced software soon.
 
