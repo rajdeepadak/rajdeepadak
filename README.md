@@ -6,7 +6,7 @@ Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop s
 
 - 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
 
-- 📄 Areas of Interests: **Robotics and Control Systems, Machine Learning, Algorithms, Computational Geometry, Embedded Software Engineering**
+- 📄 Areas of Interests: **Scientific Computing and Visualization, Robotics and Optimal Control Theory, Algorithms, Deep Learning**
 
 - 🌱 I’m always learning **🌱**
 
