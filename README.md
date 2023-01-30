@@ -1,7 +1,9 @@
 <h2 align="center">Rajdeep Adak</h2>
 
 <p align="left">
-Hi. Currently, I am a Research Assistant at FOSSEE, IIT Bombay where I develop software for simplifying CFD simulation process with OpenFOAM. My current work focuses on using Blender as a platform to build a reusable and solver-scalable system by integrating methods of mesh interaction, graphically customizable solvers and various post-processing utilities. I use Python for developing end user software interaction tools and C/C++ with Python wrappers to integrate developmental features.
+Welcome to my Github page !
+
+I am a Research Assistant at FOSSEE, IIT Bombay where I develop software to alleviate the effort of generating OpenFOAM cases. I am the author of [Venturial](https://github.com/FOSSEE/venturial). Venturial is intended to be a comprehensive GUI for OpenFOAM that provides a convenient and interactive workflow to address fluid-flow problems of varying complexity. Venturial has widgets built with bpy UI tools that implement algorithms of computational geometry (written in python) to emulate OpenFOAM's meshing utilityIt provides a homogenous interface for mesh interaction and OpenFOAM solver customization. . incorporate graphical solver customization by extending GUI capabilities with PyQt. Upcoming tasks for developing Venturial may involve writing algorithms in C/C++ in Python, future features may involve  for developing end user software interaction tools and C/C++ with Python wrappers to integrate developmental features.
 </p>
 
 - 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
