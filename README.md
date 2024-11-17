@@ -3,12 +3,14 @@
 <p align="left">
 Welcome to my Github page !
 
-I am a Research Assistant at [FOSSEE](https://fossee.in/), IIT Bombay where I develop software to alleviate the effort of generating OpenFOAM cases. I am the primary author of [Venturial](https://github.com/FOSSEE/venturial). Venturial is intended to be a comprehensive GUI for OpenFOAM that provides a convenient and interactive workflow to address fluid-flow problems of varying complexity. Venturial has widgets built with bpy UI tools that implement algorithms of computational geometry (written in python) to emulate OpenFOAM's meshing utility. Venturial is envisioned to dovetail graphical solver customization by extending Blender's UI features with PyQt. 
+I am a researcher at the [Robotics and Dynamical Systems Group](https://labs.engineering.asu.edu/rads/) at Arizona State university (ASU). I also mentor the [CFD-FOSSEE](https://cfd.fossee.in/home) GUI development team at IIT Bombay. My interests are in studying methods of optimal control in aero-hydrodynamically influenced systems. At ASU, I develop solutions for robotic automation processes and also study aerial robotics. I presently teach the RAS545 laboratory course at ASU. My research at IIT Bombay involves developing fluid-flow analysis tools that can be conveniently integrated with the workflow of control system design software and yield results for electro-mechanical design optimization. I am the primary author of [Venturial](https://github.com/FOSSEE/venturial) and [PyVNT](https://github.com/FOSSEE/pyvnt). I am captivated by policy based model-free Reinforcement Learning (RL) methods that have the potential to capture non-linear dynamics. 
+
+
 </p>
 
-- 📫 Contact me at  **rajdeepadak@iitb.ac.in** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
+- 📫 Contact me at  **radak@asu.edu** if you wish to know more about my work or at **rajdeepadak@gmail.com** to speak to me in general.
 
-- 📄 Areas of Interests: **Scientific Computing and Visualization, Robotics and Optimal Control Theory, Algorithms, Deep Learning**
+- 📄 Areas of Interests: **Robotics and Optimal Control Theory, Algorithms, Reinforcement Learning**
 
 - 🌱 I’m always learning **🌱**
 
